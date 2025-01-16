@@ -1,0 +1,16 @@
+[wokwi]
+version = "1.0"
+elf = "./build/main.elf"
+firmware = "./build/main.hex"
+
+name = "Projeto Morse com Raspberry Pi Pico W"
+description = "Simulação de emissão de sinal SOS em código Morse com LED usando Raspberry Pi Pico W"
+microcontroller = "pico"
+
+[dependencies]
+
+[pinout]
+GP11 = "LED"
+
+[connections]
+LED = { pin = "GP11", type = "LED", color = "red" }
