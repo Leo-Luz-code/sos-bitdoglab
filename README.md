@@ -28,6 +28,6 @@ O padrão SOS é composto por três pontos, três traços e três pontos, com ci
 
 1. Clone este repositório para o seu computador:
    ```bash
-   git clone https://github.com/seu-usuario/sos-bitdoglab.git
+   git clone https://github.com/Leo-Luz-code/sos-bitdoglab.git
    ```
 2. Tenha certeza de ter os arquivos de build no seu repositório local (recomendo criar um projeto e clonar este por cima dele).
