@@ -30,4 +30,6 @@ O padrão SOS é composto por três pontos, três traços e três pontos, com ci
    ```bash
    git clone https://github.com/Leo-Luz-code/sos-bitdoglab.git
    ```
-2. Tenha certeza de ter os arquivos de build no seu repositório local (recomendo criar um projeto e clonar este por cima dele).
+2. Importe o projeto pela extensão do Raspberry Pi Pico no VS Code
+3. Conecte ao PC com o cabo USB tipo A na placa
+4. Copie o arquivo .uf2 para o armazenamento da placa 
